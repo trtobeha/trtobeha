@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=trtobeha)](https://github.com/ryo-ma/github-profile-trophy)
 [![codewars](https://www.codewars.com/users/trtobeha/badges/large)](https://www.codewars.com/users/trtobeha)
+MY SKILLZZ:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
