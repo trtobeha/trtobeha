@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Vladimir, Python Backend Developer.
-<h2>👨‍💻My Technology Stack:</h2>
+<h3>👨‍💻My Technology Stack:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
