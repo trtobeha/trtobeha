@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Vladimir, i am python backend developer from Russia.
+## My name is Vladimir, Python Backend Developer.
 [![codewars](https://www.codewars.com/users/trtobeha/badges/large)](https://www.codewars.com/users/trtobeha)
 <h2>👨‍💻My Technology Stack:</h2>
 
