@@ -1,6 +1,5 @@
 ### Hi there 👋
 ## My name is Vladimir, Python Backend Developer.
-[![codewars](https://www.codewars.com/users/trtobeha/badges/large)](https://www.codewars.com/users/trtobeha)
 <h2>👨‍💻My Technology Stack:</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -17,6 +16,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+[![codewars](https://www.codewars.com/users/trtobeha/badges/large)](https://www.codewars.com/users/trtobeha)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/trtobeha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
