@@ -1,25 +1,8 @@
-<!DOCTYPE html>
-<html>
- 
-<body>
-    <!--HTML font size tag starts here-->
-    <font size="1">GeeksforGeeks!</font><br />
-    <font size="2">GeeksforGeeks!</font><br />
-    <font size="3">GeeksforGeeks!</font><br />
-    <font size="4">GeeksforGeeks!</font><br />
-    <font size="5">GeeksforGeeks!</font><br />
-    <font size="6">GeeksforGeeks!</font><br />
-    <font size="7">GeeksforGeeks!</font>
-    <!--HTML font size tag ends here-->
-</body>
- 
-</html>
-
 <h2>Vladimir Podyakov</h2>
 <h2>Python backend developer</h2>
 <h2>27yo</h2>
 <h2>Moscow, Russia</h2>
-<font size="30">Moscow, Russia</font><br/>
+Moscow, Russia
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
