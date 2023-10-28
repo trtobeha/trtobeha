@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+" alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Vladimir+Podyakov" alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Python+Backend+Developer" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBMy+Technology+Stack%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBMy+Technology+Stack%3A" alt="Typing SVG" /></a><br>
 ##Vladimir Podyakov
 ##Python backend developer
 ##27yo
