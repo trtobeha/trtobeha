@@ -1,4 +1,4 @@
-## **Vladimir Podyakov**<br> ##
+## **Vladimir Podyakov** ##
 ## **Python backend developer**<br>
 ## **27yo**<br>
 ## **Moscow, Russia**<br>
