@@ -2,6 +2,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Vladimir+Podyakov" alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Python+Backend+Developer" alt="Typing SVG" /></a><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBMy+Technology+Stack%3A" alt="Typing SVG" /></a>
+##Vladimir Podyakov
+##Python backend developer
+##27yo
+##Moscow, Russia
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
