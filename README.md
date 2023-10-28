@@ -1,4 +1,4 @@
-<h2>**Vladimir Podyakov** </h2>
+<h2>Vladimir Podyakov</h2><br>
 ## **Python backend developer**<br>
 ## **27yo**<br>
 ## **Moscow, Russia**<br>
