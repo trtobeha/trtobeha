@@ -1,6 +1,6 @@
 <h2>Vladimir Podyakov</h2><br>
 <h2>Python backend developer</h2><br>
-<h>227yo</h2><br>
+<h2>27yo</h2><br>
 <h2>Moscow, Russia</h2><br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
