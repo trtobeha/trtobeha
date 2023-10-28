@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there!+" alt="Typing SVG" /></a><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Vladimir+Podyakov" alt="Typing SVG" /></a>
-## My name is Vladimir, Python Backend Developer.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Vladimir+Podyakov" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+Python+Backend+Developer" alt="Typing SVG" /></a>
 <h3>👨‍💻My Technology Stack:</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
