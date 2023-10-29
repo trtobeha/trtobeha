@@ -2,7 +2,7 @@
 <h2>27 y.o.</h2>
 <h2>Moscow, Russia</h2>
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/trtobeha/trtobeha/blob/main/name.svg" alt="Vladimir Podyakov" />
 </h1>
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
