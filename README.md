@@ -1,8 +1,5 @@
-<h2>Vladimir Podyakov</h2>
-<h2>Python backend developer</h2>
-<h2>27yo</h2>
-<h2>Moscow, Russia</h2>
-Moscow, Russia<br>
+<h2>Vladimir Podyakov, backend developer</h2>
+<h2>27 y.o. Moscow, Russia</h2>
 
 ### Languages:
 
