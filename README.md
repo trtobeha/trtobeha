@@ -1,9 +1,6 @@
-<h2>Vladimir Podyakov, backend developer</h2>
-<h2>27 y.o.</h2>
-<h2>Moscow, Russia</h2>
 <h1 align="center">
   <img src="https://github.com/trtobeha/trtobeha/blob/main/name.svg" alt="Vladimir Podyakov" />
-</h1>
+</h1><br/>
 <h1 align="center">
   <img src="https://github.com/trtobeha/trtobeha/blob/main/speciality.svg" alt="Python Backend developer" />
 </h1>
