@@ -1,13 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/trtobeha/trtobeha/blob/main/name.svg" alt="Vladimir Podyakov" />
 </h1>
-
-### Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
 <h1 align="center">
   <img src="https://github.com/trtobeha/trtobeha/blob/main/speciality.svg" alt="Python Backend developer" />
 </h1>
