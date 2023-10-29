@@ -1,7 +1,9 @@
 <h2>Vladimir Podyakov, backend developer</h2>
 <h2>27 y.o.</h2>
 <h2>Moscow, Russia</h2>
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
