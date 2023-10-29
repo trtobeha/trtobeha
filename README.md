@@ -5,7 +5,7 @@
   <img src="https://github.com/trtobeha/trtobeha/blob/main/name.svg" alt="Vladimir Podyakov" />
 </h1>
 <h1 align="center">
-  <img src="https://github.com/trtobeha/trtobeha/blob/main/name.svg" alt="Python Backend developer" />
+  <img src="https://github.com/trtobeha/trtobeha/blob/main/speciality.svg" alt="Python Backend developer" />
 </h1>
 ### Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
