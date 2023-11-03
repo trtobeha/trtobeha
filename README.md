@@ -48,6 +48,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+Codewars+profile%3A" alt="Typing SVG" /></a><br>
 [![codewars](https://www.codewars.com/users/trtobeha/badges/large)](https://www.codewars.com/users/trtobeha)
 <h3 align="left">Connect with me:</h3>
+<h4>podyakovvladimir@gmail.com</h4>
 <p align="left">
 <a href="https://t.me/trtobeha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
