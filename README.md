@@ -16,8 +16,8 @@
 ### Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Scrapy](https://img.shields.io/badge/Scrapy-red)
-![Flask](https://img.shields.io/badge/Flask-blue)
+![Scrapy](https://img.shields.io/badge/Scrapy-red?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-blue?style=for-the-badge)
 <!--[comment]: ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)-->
 
 ### Technologies:
